@@ -1,0 +1,8 @@
+{
+  "name": "online-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Archhhi/online-store.git",
+  "author": "Archhhi <brabus-20@mail.ru>",
+  "license": "MIT"
+}
